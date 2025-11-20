@@ -246,8 +246,8 @@ main {
     grid-auto-rows: minmax(0, auto);
     grid-template-areas:
       "experience experience"
-      "personal skills"
-      "education skills";
+      "skills personal"
+      "skills education";
   }
 
   .experience {
